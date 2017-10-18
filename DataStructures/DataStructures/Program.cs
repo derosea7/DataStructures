@@ -10,7 +10,7 @@ namespace DataStructures
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Hello Test");
+      Console.WriteLine("Hello Test Edited from GitHub");
       Console.ReadLine();
     }
   }
